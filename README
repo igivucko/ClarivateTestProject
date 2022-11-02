@@ -1,0 +1,11 @@
+# Task 2: Detect & parse Holidays
+# Task 4: Save the parsed result into sqlite3 in memory database
+# To get results for Task 2 and Task 4 go into project root and type
+make run
+
+# Task 3: Implement a unit test class
+# To implement unit tests from Task 3 go into project root and type
+make test
+
+# To clean __pycache__, venv, .pytest_cache
+make clean
